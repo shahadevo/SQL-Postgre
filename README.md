@@ -1,2 +1,2 @@
 # SQL-Postgre
-SQL-Postgre Toole
+SQL-Postgre Tool
